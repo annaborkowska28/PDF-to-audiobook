@@ -1,2 +1,3 @@
-# PDF to speeach
-Code converts pdf to speeach in python using gTTs and PdfReader.
+# PDF to speech
+gTTS converts the text into audio which can be saved as a mp3 file.
+To read pdf file i used PdfReader module. 
